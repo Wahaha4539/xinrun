@@ -6,5 +6,6 @@ package com.xinrun.study;
 public class Test01 {
     public static void mian(String[]args){
         System.out.println("I love JAVA!");
+        System.out.println("hello world");
     }
 }
